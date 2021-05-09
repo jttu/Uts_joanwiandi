@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfc79743-0acc-44e4-a288-7b78f58e77f5" name="Default Changelist" comment="" />
+    <list default="true" id="bfc79743-0acc-44e4-a288-7b78f58e77f5" name="Default Changelist" comment="uts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +118,19 @@
       <option name="presentableId" value="Default" />
       <updated>1620567441360</updated>
     </task>
+    <task id="LOCAL-00001" summary="uts">
+      <created>1620588264154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620588264154</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="uts" />
+    <option name="LAST_COMMIT_MESSAGE" value="uts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="263" y="154" key="AndroidCreateResourceFileDialog" timestamp="1620585517306">
@@ -129,6 +141,10 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="72" y="185" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1620574712335" />
+    <state x="275" y="132" key="Vcs.Push.Dialog.v2" timestamp="1620588372223">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="275" y="132" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1620588372223" />
     <state x="0" y="30" width="585" height="738" key="find.popup" timestamp="1620574716557">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
